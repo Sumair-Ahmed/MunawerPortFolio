@@ -1,0 +1,11 @@
+{
+    "Service_Card": [
+        {"title" : "Web Design" , "icon" : "fa fa-mobile-alt" , "Discription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."},
+        {"title" : "Web Design" ,"icon" : "fa fa-laptop-code"  , "Discription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."},
+        {"title" : "Web Design" ,  "icon" : "fa fa-palette"  ,"Discription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."},
+        {"title" : "Web Design" , "icon" : "fa fa-code"  , "Discription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."},
+        {"title" : "Web Design" , "icon" : "fa fa-search"  , "Discription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."},
+        {"title" : "Web Design" , "icon" : "fa fa-bullhorn"  , "Discription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."}
+   
+    ]
+}

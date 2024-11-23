@@ -1,0 +1,17 @@
+{
+    "links" : [
+        { "name" : "Home" , "Icon" : "fa fa-home" , "location": "/" },
+        { "name" : "About" , "Icon" : "fa fa-user" , "location": "/About" },
+        { "name" : "Portofolio" , "Icon" : "fa fa-briefcase" , "location": "/Protfolio" },
+        { "name" : "Contact" , "Icon" : "fa fa-comments" , "location": "/ContactUs" }
+    ],
+    "logo": "vite.svg",
+    "SoftwareHouse_links":[
+        { "name" : "Home" , "Icon" : "fa fa-home" , "location": "/" },
+        { "name" : "About" , "Icon" : "fa fa-user" , "location": "/About" },
+        { "name" : "Services" , "Icon" : "fa fa-list" , "location": "/Services" },
+        { "name" : "Portofolio" , "Icon" : "fa fa-briefcase" , "location": "/Protfolio" },
+        { "name" : "Testimonial" , "Icon" : "fa fa-quote-left" , "location": "/Testimonial" },
+        { "name" : "Contact" , "Icon" : "fa fa-comments" , "location": "/ContactUs" }
+    ]
+}

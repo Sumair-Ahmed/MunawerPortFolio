@@ -1,0 +1,99 @@
+{
+  "Protfolio_cards": [
+    {
+      "id": 3,
+      "img": "../Food.jpg",
+      "title": "NextGen Food Ordering App",
+      "Discription": "I created the NextGen Food Ordering App for a client, offering a sleek, user-friendly experience with real-time order tracking, secure transactions, and an intuitive admin panel for restaurant management. This solution is designed to meet the client’s needs and elevate their digital food service.",
+      "GoLive": false,
+      "GoLiveLink": "",
+      "categerous": "Application",
+      "gallery" : [
+        "../Food1.jpg",
+        "../Food2.jpg",
+        "../Food3.jpg",
+        "../Food4.jpg",
+        "../Food5.jpg",
+        "../Food6.jpg",
+        "../Food7.jpg",
+        "../Food8.jpg",
+        "../Food9.jpg",
+        "../Food10.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "img": "../SagarJewel.jpg",
+      "title": "Sagar Jewels: App Transformation",
+      "Discription": "I created the Sagar Jewellers app for a client, enhancing its design and functionality to offer an exquisite jewelry shopping experience. A perfect blend of elegance and usability to elevate the brand in the digital space.",
+      "GoLive": true,
+      "GoLiveLink": "https://play.google.com/store/apps/details?id=com.sagar.jewellery&hl=en",
+      "categerous": "Application",
+      "gallery" : [
+
+      ]
+    },
+    {
+      "id": 5,
+      "img": "../Sita1.jpg",
+      "title": "Sita Fresh: App Innovation",
+      "Discription": "I created the Sita Fresh app for a client, designed exclusively for mouth-freshener sales. With a seamless blend of elegant design and advanced functionality, this app takes the brand to the next level. Let’s collaborate to craft your digital success!",
+      "GoLive": false,
+      "GoLiveLink": "",
+      "categerous": "Application",
+      "gallery" : [
+        "../Sita2.jpg"
+      ]
+    },
+    {
+      "id": 0,
+      "img": "../Doobdoo.png",
+      "title": "Doobdoo Dating App",
+      "Discription": "Doobdoo is a dynamic dating app that I had the privilege of developing for a client based in India. This project showcases my expertise in app development, and you can explore it live on the Play Store.",
+      "GoLive": true,
+      "GoLiveLink": "https://play.google.com/store/apps/details?id=com.doobdoo&hl=en&gl=US&pli=1",
+      "clientname": "Tanu Parmar",
+      "categerous": "Application",
+      "Date": "15-01-2023",
+      "gallery" : [
+        
+      ]
+    },
+    {
+      "id": 1,
+      "img": "../BidMyStand.png",
+      "title": "Bid My Stand",
+      "Discription": "Bid My Stand is an innovative job app that I developed for a client based in India. This project highlights my skills in creating efficient and user-friendly platforms tailored to client needs.",
+      "GoLive": false,
+      "GoLiveLink": "",
+      "categerous": "Application",
+      "gallery" : [
+        
+      ]
+    },
+    {
+      "id": 2,
+      "img": "../DailyPit.png",
+      "title": "Dailypit",
+      "Discription": "Dailypit is a versatile shop app that I developed for a client in India. This project demonstrates my ability to create seamless and functional e-commerce solutions tailored to client requirements.",
+      "GoLive": false,
+      "GoLiveLink": "",
+      "categerous": "Application",
+      "gallery" : [
+       
+      ]
+    },
+    {
+      "id": 6,
+      "img": "../Sikkim.jpg",
+      "title": "Sikkim: Seamless Booking App",
+      "Discription": "I created the 'Sikkim' booking app for a client, enhancing its functionality and user experience through meticulous modifications. A perfect blend of innovation and refinement to deliver a seamless booking solution.",
+      "GoLive": false,
+      "GoLiveLink": "",
+      "categerous": "Application",
+      "gallery" : [
+       
+      ]
+    }
+  ]
+}

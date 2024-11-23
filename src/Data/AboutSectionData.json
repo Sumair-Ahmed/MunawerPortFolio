@@ -1,0 +1,33 @@
+{
+    "title": "I'm Munawer Ali and ",
+    "title_highlighted": "Andriod Developer",
+    "Discription": "a Flutter app developer with 3+ years of experience. I specialize in creating diverse applications—be it e-commerce, food ordering, jewelry apps, or complex projects. From concept to code, I bring ideas to life with a blend of creativity and precision. Let's collaborate on your next innovative project!",
+    "Information": [
+        {"name": "Birthday : " , "value" : "28-11-2006"},
+        {"name": "Age : " , "value" : "17"},
+        {"name": "Email : " , "value" : "munawera808@gmail.com"},
+        {"name": "Phone : " , "value" : "+92317-8767013"},
+        {"name": "City : " , "value" : "Thatta District ,Sindh ,Pakistan"},
+        {"name": "Freelance : " , "value" : "Available"}
+    ],
+    "Skills": [
+        {"name" : "Flutter" , "Progress" : ""},
+        {"name" : "Flutter Flow" , "Progress" : ""},
+        {"name" : "Swift" , "Progress" : ""},
+        {"name" : "Java" , "Progress" : ""},
+        {"name" : "Kotlin" , "Progress" : ""},
+        {"name" : "Andriod" , "Progress" : ""},
+        {"name" : "Firebase" , "Progress" : ""}
+    ],
+    "CVLocation": "../Numair Ahmed CV.pdf",
+    "Education" : [
+        {"Date" : "2020 – 2022" , "title" : "SSC certificate" , "Discription" : "I earned my SSC certificate from High School in 2022."}
+    ],
+    "Experience" : [
+        {"Date" : "2019-2024" , "title" : "Flutter" , "Discription" : "a proficient Flutter app developer with a passion for crafting exceptional mobile experiences. Over the past 3+ years, I've been deeply immersed in Flutter development, working on a variety of projects. My journey includes collaborating with freelance clients, where I've successfully delivered innovative solutions for their unique needs."},
+        {"Date" : "2019-2024" , "title" : "Andriod Developer" , "Discription" : "In the world of Android, I specialize in crafting diverse applications, from e-commerce platforms and food ordering apps to intricate jewelry applications and complex projects. Simultaneously, my proficiency in Android development, particularly using Kotlin, adds an extra layer to my skill set."},
+        {"Date" : "2019-2024" , "title" : "Kotlin" , "Discription" : "an adaptable developer dedicated to crafting exceptional mobile experiences. With a robust background spanning over 3+ years, I've immersed myself in the dynamic worlds of Kotlin."},
+        {"Date" : "2021-2024" , "title" : "Firebase" , "Discription" : "working on firebase more then 2+ years , until used it in all applications and delivered innovative solutions for their unique needs."}
+    ]
+
+}
