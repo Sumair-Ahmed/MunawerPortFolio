@@ -1,6 +1,6 @@
 {
     "Infomration": [
-        {"id" : 0, "icon" : "fa fa-phone" , "title" : "Phone No" , "Discription" : "+92-318-0137714"},
+        {"id" : 0, "icon" : "fa fa-phone" , "title" : "Phone No" , "Discription" : "+92-3178767013"},
         {"id" : 1, "icon" : "fa fa-map-marker-alt" , "title" : "City" , "Discription" : "Thatta"},
         {"id" : 2, "icon" : "fa fa-envelope" , "title" : "Email" , "Discription" : "munawera808@gmail.com"},
         {"id" : 3, "icon" : "fa fa-globe-europe" , "title" : "Freelance" , "Discription" : "Available"}
